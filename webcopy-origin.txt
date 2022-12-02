@@ -1,0 +1,496 @@
+Uri: http://cafenasude.tilda.ws/
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\index-1.htm
+Content Type: text/html
+
+Uri: http://cafenasude.tilda.ws/catering
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\catering-1.html
+Content Type: text/html
+
+Uri: http://cafenasude.tilda.ws/tilda-blocks-page29288870.min.css?t=1665731651
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tilda-blocks-page29288870.min-1.css
+Content Type: text/css
+
+Uri: http://cafenasude.tilda.ws/tilda-blocks-page29288870.min.js?t=1665731651
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tilda-blocks-page29288870.min-1.js
+Content Type: application/javascript
+
+Uri: http://cafenasude.tilda.ws/tilda-blocks-page30560529.min.css?t=1665731651
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tilda-blocks-page30560529.min-1.css
+Content Type: text/css
+
+Uri: http://cafenasude.tilda.ws/tilda-blocks-page30560529.min.js?t=1665731651
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tilda-blocks-page30560529.min-1.js
+Content Type: application/javascript
+
+Uri: https://cafenasude.tilda.ws/
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\index.htm
+Content Type: text/html
+
+Uri: https://cafenasude.tilda.ws/catering
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\catering.html
+Content Type: text/html
+
+Uri: https://cafenasude.tilda.ws/tilda-blocks-page29288870.min.css?t=1665731651
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tilda-blocks-page29288870.min.css
+Content Type: text/css
+
+Uri: https://cafenasude.tilda.ws/tilda-blocks-page29288870.min.js?t=1665731651
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tilda-blocks-page29288870.min.js
+Content Type: application/javascript
+
+Uri: https://cafenasude.tilda.ws/tilda-blocks-page30560529.min.css?t=1665731651
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tilda-blocks-page30560529.min.css
+Content Type: text/css
+
+Uri: https://cafenasude.tilda.ws/tilda-blocks-page30560529.min.js?t=1665731651
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tilda-blocks-page30560529.min.js
+Content Type: application/javascript
+
+Uri: https://mc.yandex.ru/watch/90182489
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\watch\90182489
+Content Type: image/gif
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/css/fonts-tildasans.css
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\css\fonts-tildasans.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-animation-1.0.min.css
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\css\tilda-animation-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-popup-1.1.min.css
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\css\tilda-popup-1.1.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-zero-gallery-1.0.min.css
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\css\tilda-zero-gallery-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-zoom-2.0.min.css
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\css\tilda-zoom-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.eot
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Black.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.eot?
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Black-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.woff
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Black.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.woff2
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Black.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.eot
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.eot?
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.woff
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.woff2
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Bold.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.eot
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Extrabold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.eot?
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Extrabold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.woff
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Extrabold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.woff2
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Extrabold.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.eot
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.eot?
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.woff
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Light.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.woff2
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Light.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.eot
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.eot?
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.woff
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.woff2
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Medium.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.eot
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.eot?
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.woff
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.woff2
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.eot
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Semibold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.eot?
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Semibold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.woff
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Semibold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.woff2
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-Semibold.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-VF.woff
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-VF.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-VF.woff2
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\fonts\tildasans\TildaSans-VF.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/img/tildacopy.png
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\img\tildacopy.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/img/tildafavicon.ico
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\img\tildafavicon.ico
+Content Type: image/x-icon
+
+Uri: https://static.tildacdn.com/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/lazyload-1.3.min.js
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\js\lazyload-1.3.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-1.0.min.js
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\js\tilda-animation-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-sbs-1.0.min.js
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\js\tilda-animation-sbs-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-menu-1.0.min.js
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\js\tilda-menu-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-popup-1.0.min.js
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\js\tilda-popup-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-1.1.min.js
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-gallery-1.0.min.js
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\js\tilda-zero-gallery-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zoom-2.0.min.js
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\js\tilda-zoom-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3036-6539-4337-a436-663163333261/-/resizeb/20x/kak-nakryt-stol-na-n.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3036-6539-4337-a436-663163333261\-\resizeb\20x\kak-nakryt-stol-na-n.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3038-3436-4237-a661-663435343030/-/resize/20x/s1200-2.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3038-3436-4237-a661-663435343030\-\resize\20x\s1200-2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3064-3630-4831-b561-643231313835/-/resize/20x/64365653a6765ce5d49d.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3064-3630-4831-b561-643231313835\-\resize\20x\64365653a6765ce5d49d.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3064-3865-4534-b938-313061653862/-/resize/20x/408c0bd235.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3064-3865-4534-b938-313061653862\-\resize\20x\408c0bd235.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3065-3162-4463-b436-663561373438/-/resize/20x/cd68a39704f8ca601bc0.jpeg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3065-3162-4463-b436-663561373438\-\resize\20x\cd68a39704f8ca601bc0.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3065-3363-4331-a132-363466383164/-/resize/20x/pngaaacom-545399.png
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3065-3363-4331-a132-363466383164\-\resize\20x\pngaaacom-545399.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3134-6236-4335-b736-616437376138/-/resize/20x/545284b41334402a906f.jpeg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3134-6236-4335-b736-616437376138\-\resize\20x\545284b41334402a906f.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3137-3664-4235-a161-616264323934/-/resize/20x/scale_1200.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3137-3664-4235-a161-616264323934\-\resize\20x\scale_1200.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3138-3038-4339-a631-346563353336/-/resize/20x/1617191468_14-p-blyu.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3138-3038-4339-a631-346563353336\-\resize\20x\1617191468_14-p-blyu.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3162-3630-4539-b164-383961616534/-/resize/20x/borsh_vegetariansky.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3162-3630-4539-b164-383961616534\-\resize\20x\borsh_vegetariansky.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3163-3939-4533-a531-616333313264/-/resizeb/20x/Frame_6.png
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3163-3939-4533-a531-616333313264\-\resizeb\20x\Frame_6.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3231-3533-4866-b532-346362653136/-/resize/20x/otbivnaya-s-gribami-.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3231-3533-4866-b532-346362653136\-\resize\20x\otbivnaya-s-gribami-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3233-6264-4035-a365-376239623161/-/resize/20x/kurinye-frikadelki-v.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3233-6264-4035-a365-376239623161\-\resize\20x\kurinye-frikadelki-v.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3235-3362-4431-b937-666461663264/-/resize/20x/85788924.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3235-3362-4431-b937-666461663264\-\resize\20x\85788924.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3235-3761-4137-b361-636332313238/-/resize/20x/4.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3235-3761-4137-b361-636332313238\-\resize\20x\4.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3261-3963-4138-a666-666233646431/-/resize/20x/okroshka-na-pive-10.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3261-3963-4138-a666-666233646431\-\resize\20x\okroshka-na-pive-10.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3330-3335-4862-b236-383932353231/-/resize/20x/880a8ec6b09569b0827a.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3330-3335-4862-b236-383932353231\-\resize\20x\880a8ec6b09569b0827a.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3338-6534-4130-a435-383835326538/-/resize/20x/scale_1200.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3338-6534-4130-a435-383835326538\-\resize\20x\scale_1200.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3430-3538-4563-b032-666233646561/-/resizeb/20x/Frame_8.png
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3430-3538-4563-b032-666233646561\-\resizeb\20x\Frame_8.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3433-3835-4537-a565-343332636439/-/resize/20x/scale_1200.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3433-3835-4537-a565-343332636439\-\resize\20x\scale_1200.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3531-3837-4966-b538-636130366139/-/resize/20x/20161111_763971210.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3531-3837-4966-b538-636130366139\-\resize\20x\20161111_763971210.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3536-3135-4361-b733-366331333466/-/resize/20x/pngwingcom_10.png
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3536-3135-4361-b733-366331333466\-\resize\20x\pngwingcom_10.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3634-3165-4430-b834-613063646130/image_10.svg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3634-3165-4430-b834-613063646130\image_10.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3636-3735-4531-b933-613738303561/-/resize/20x/garnir_6-1.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3636-3735-4531-b933-613738303561\-\resize\20x\garnir_6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3639-3832-4339-b961-323939333031/-/resize/20x/5148_big.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3639-3832-4339-b961-323939333031\-\resize\20x\5148_big.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3662-6338-4164-a161-313065383635/-/resizeb/20x/1667800.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3662-6338-4164-a161-313065383635\-\resizeb\20x\1667800.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3666-3361-4233-a637-323261373031/-/resize/20x/e58c45c471309fb2e519.jpeg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3666-3361-4233-a637-323261373031\-\resize\20x\e58c45c471309fb2e519.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3730-6132-4238-a536-303634353365/-/resize/20x/eba3231419633a1fafd1.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3730-6132-4238-a536-303634353365\-\resize\20x\eba3231419633a1fafd1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3735-3862-4265-b137-363739373931/image_31.svg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3735-3862-4265-b137-363739373931\image_31.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3736-3033-4631-b930-343764633466/-/resize/20x/kapusta_sladkaya.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3736-3033-4631-b930-343764633466\-\resize\20x\kapusta_sladkaya.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3761-3232-4735-a161-386661653034/-/resize/20x/d31704-730x604-1.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3761-3232-4735-a161-386661653034\-\resize\20x\d31704-730x604-1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3766-3334-4339-b565-643638633631/-/resize/20x/1616180675_14-p-sup-.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3766-3334-4339-b565-643638633631\-\resize\20x\1616180675_14-p-sup-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3836-3630-4433-b133-653830316330/-/resizeb/20x/IMG_0838.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3836-3630-4433-b133-653830316330\-\resizeb\20x\IMG_0838.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3861-6338-4932-a339-623937656335/-/resizeb/20x/Frame_10.png
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3861-6338-4932-a339-623937656335\-\resizeb\20x\Frame_10.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3933-3764-4237-a666-643936366632/-/resizeb/20x/Frame_7.png
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3933-3764-4237-a666-643936366632\-\resizeb\20x\Frame_7.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3939-6233-4864-a433-653330353663/-/resize/20x/7d08876b47123b5f7966.jpeg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3939-6233-4864-a433-653330353663\-\resize\20x\7d08876b47123b5f7966.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3963-3035-4236-b338-396261613664/-/resize/20x/24c99282eb3fadb5dcf3.jpeg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3963-3035-4236-b338-396261613664\-\resize\20x\24c99282eb3fadb5dcf3.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3966-6334-4362-b933-303864326166/-/resizeb/20x/Frame_11.png
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild3966-6334-4362-b933-303864326166\-\resizeb\20x\Frame_11.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6132-6338-4530-b062-393738616365/-/resize/20x/zelenoe_lobio-677445.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild6132-6338-4530-b062-393738616365\-\resize\20x\zelenoe_lobio-677445.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6134-3766-4837-b966-386230313537/-/resize/20x/scale_1200.png
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild6134-3766-4837-b966-386230313537\-\resize\20x\scale_1200.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6138-3336-4737-a162-653965393866/-/resize/20x/rice-1525121635.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild6138-3336-4737-a162-653965393866\-\resize\20x\rice-1525121635.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6234-6639-4235-b136-323464626561/-/resize/20x/3c4ead5d914ae971f974.jpeg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild6234-6639-4235-b136-323464626561\-\resize\20x\3c4ead5d914ae971f974.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6237-3161-4635-a633-653333343636/-/resize/20x/128_image.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild6237-3161-4635-a633-653333343636\-\resize\20x\128_image.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6265-6266-4862-a361-333961663462/-/resize/20x/2a8d6ffd0a8aa7b4811e.jpeg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild6265-6266-4862-a361-333961663462\-\resize\20x\2a8d6ffd0a8aa7b4811e.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6338-3864-4063-a165-613337633531/-/resize/20x/1200x1200nocrop.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild6338-3864-4063-a165-613337633531\-\resize\20x\1200x1200nocrop.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6339-3635-4262-b134-343836383934/-/resize/20x/imgd.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild6339-3635-4262-b134-343836383934\-\resize\20x\imgd.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6339-3936-4661-b465-646138656639/-/resize/20x/1-125.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild6339-3936-4661-b465-646138656639\-\resize\20x\1-125.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6363-3961-4339-a163-336639623463/-/resize/20x/1626992851_24-p-blin.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild6363-3961-4339-a163-336639623463\-\resize\20x\1626992851_24-p-blin.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6432-3263-4632-a536-666634616166/-/resize/20x/b50746c5-70cf-41e0-a.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild6432-3263-4632-a536-666634616166\-\resize\20x\b50746c5-70cf-41e0-a.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6437-3062-4138-a561-616137383738/-/resize/20x/original.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild6437-3062-4138-a561-616137383738\-\resize\20x\original.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6465-3265-4266-b762-323334343763/-/resize/20x/633adf084c72976ffc83.jpeg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild6465-3265-4266-b762-323334343763\-\resize\20x\633adf084c72976ffc83.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6466-3265-4963-a634-393961363633/-/resize/20x/zarenye-kabachki-s-c.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild6466-3265-4963-a634-393961363633\-\resize\20x\zarenye-kabachki-s-c.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6534-6430-4662-a433-633761643134/-/resize/20x/podjarka-iz-svininy-.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild6534-6430-4662-a433-633761643134\-\resize\20x\podjarka-iz-svininy-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6637-3130-4161-b164-386662643935/-/resizeb/20x/Frame_9.png
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild6637-3130-4161-b164-386662643935\-\resizeb\20x\Frame_9.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6661-6539-4236-b563-306266376361/-/empty/furshet3.jpg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild6661-6539-4236-b563-306266376361\-\empty\furshet3.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6665-6338-4163-b365-376665353261/__1.svg
+File Name: C:\Downloaded Web Sites\cafenasude.tilda.ws\tild6665-6338-4163-b365-376665353261\__1.svg
+Content Type: image/svg+xml
+
